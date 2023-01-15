@@ -1,9 +1,10 @@
 # Basics Coding Sheet
-This is the Striver's TCS NQT Sheet, all the contents in this repository has been taken from that sheet, I have solely made this repository for my own revisions.
-Credits: takeuforward Striver (Raj Vikramaditya)
+This is the [Striver's TCS NQT Sheet](https://takeuforward.org/interviews/tcs-nqt-coding-sheet-tcs-coding-questions/), all the contents in this repository has been taken from that sheet, I have solely made this repository for revisions. <br/>
+Credits: [takeuforward](https://www.youtube.com/@takeUforward) [Striver (Raj Vikramaditya)](https://www.linkedin.com/in/rajarvp/)
 
 ## Arrays
 | Notes | Article |
+| ----- | ------- |
 | Find the smallest number in an array | Link |
 | Find the largest number in an array  | Link | 
 | Second smallest & Second Largest Element in an array  | Link |
